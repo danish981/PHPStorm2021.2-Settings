@@ -1,20 +1,53 @@
 <project version="4">
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="598">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/app/Models/Author.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="208">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2022_10_15_224803_create_authors_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <folding>
+                <element signature="e#7#52#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Book.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2022_10_15_224817_create_books_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+              <folding>
+                <element signature="e#7#52#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -25,7 +58,12 @@
     <changedPaths>
       <option value="$PROJECT_DIR$/.editorconfig" />
       <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      <option value="$PROJECT_DIR$/app/Http/Controllers/DemoController.php" />
+      <option value="$PROJECT_DIR$/.env" />
       <option value="$PROJECT_DIR$/routes/web.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2022_10_15_224803_create_authors_table.php" />
+      <option value="$PROJECT_DIR$/app/Models/Author.php" />
+      <option value="$PROJECT_DIR$/database/migrations/2022_10_15_224817_create_books_table.php" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -48,6 +86,11 @@
             <path>
               <item name="laravel-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="laravel-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel-demo" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -56,6 +99,13 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="artisan serve" currentWorkingDirectory="C:\xampp\htdocs\laravel-demo\" commandHistoryFileName="laravel-demo-history" />
+      <TerminalTabState tabName="artisan commands" currentWorkingDirectory="C:\xampp\htdocs\laravel-demo\" commandHistoryFileName="laravel-demo-history1" />
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
@@ -75,13 +125,14 @@
       <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32977644" />
       <window_info anchor="bottom" id="Flow" order="11" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="0" />
     </layout>
     <recentWindows>
+      <value>Terminal</value>
       <value>Project</value>
       <value>Run</value>
     </recentWindows>
@@ -92,14 +143,22 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="315" y="242" key="#PHP/0.0.1280.984@0.0.1280.984" timestamp="1665838459006" />
-    <state x="89" y="130" key="SettingsEditor" timestamp="1665854802554">
+    <state x="103" y="143" key="SettingsEditor" timestamp="1665855731842">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="89" y="130" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1665854802554" />
+    <state x="103" y="143" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1665855731842" />
     <state x="481" y="397" key="code_generation:createController" timestamp="1665854763505">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="481" y="397" key="code_generation:createController/0.0.1280.984@0.0.1280.984" timestamp="1665854763505" />
+    <state x="508" y="356" key="code_generation:createModel" timestamp="1665856097838">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="508" y="356" key="code_generation:createModel/0.0.1280.984@0.0.1280.984" timestamp="1665856097838" />
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup" timestamp="1665856205425">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1665856205425" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/artisan">
@@ -139,6 +198,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DemoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Author.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -146,10 +233,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2022_10_15_224803_create_authors_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="243">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#7#52#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2022_10_15_224817_create_books_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="e#7#52#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
