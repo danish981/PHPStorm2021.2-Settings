@@ -1,0 +1,1 @@
+{"id":183127,"xmlId":"color.scheme.One Dark Pro","name":"One Dark Pro Color Scheme","description":"\n      A VSCode One Dark Pro color scheme port of for jetbrains IDE\n    ","tags":["Editor","Editor Color Schemes"],"vendor":"Eldad Danladi","version":"0.3","notes":"\n      \n    \n  ","dependencies":["com.intellij.modules.lang"],"since":"142.0","size":16002}

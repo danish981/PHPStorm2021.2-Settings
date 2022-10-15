@@ -1,51 +1,44 @@
 <project version="4">
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Models/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="432">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <element signature="e#80#134#0#PHP" expanded="true" />
+                <element signature="e#7#47#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+        <entry file="file://$PROJECT_DIR$/config/hashing.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-              <folding>
-                <element signature="e#33#73#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="522">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\xampp\htdocs\laravel-demo\routes</dir>
+    </dirStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/.env" />
       <option value="$PROJECT_DIR$/composer.json" />
       <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <option value="$APPLICATION_CONFIG_DIR$/scratches/project about.txt" />
-      <option value="$PROJECT_DIR$/routes/web.php" />
       <option value="$PROJECT_DIR$/app/Models/User.php" />
       <option value="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
       <option value="$PROJECT_DIR$/.editorconfig" />
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/project about.txt" />
+      <option value="$PROJECT_DIR$/routes/web.php" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -67,12 +60,8 @@
             </path>
             <path>
               <item name="laravel-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
-            </path>
-            <path>
-              <item name="laravel-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
-              <item name="Scratches" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+              <item name="laravel-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -84,14 +73,14 @@
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
       <TerminalTabState tabName="Artisan Serve" currentWorkingDirectory="C:\xampp\htdocs\laravel-demo\" commandHistoryFileName="laravel-demo-history" />
-      <TerminalTabState tabName="Artisan Console" currentWorkingDirectory="C:\xampp\htdocs\laravel-demo\" commandHistoryFileName="laravel-demo-history1" />
+      <TerminalTabState tabName="Artisan Console" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="laravel-demo-history1" />
     </option>
-    <option name="mySelectedTabIndex" value="1" />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="2592000" />
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19008587" />
       <window_info id="Structure" order="1" side_tool="true" />
@@ -101,24 +90,25 @@
       <window_info id="npm" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="TODO" order="3" />
-      <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="File Transfer" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32977644" />
-      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Flow" order="5" />
-      <window_info anchor="bottom" id="TypeScript" order="5" />
-      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32977644" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32977644" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Services" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
     </layout>
     <recentWindows>
       <value>Project</value>
       <value>Terminal</value>
+      <value>Run</value>
     </recentWindows>
   </component>
   <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
@@ -127,30 +117,40 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="269" y="242" width="742" height="500" key="#PHP/0.0.1280.984@0.0.1280.984" timestamp="1662303151257" />
+    <state width="1281" height="296" key="GridCell.Tab.0.bottom" timestamp="1662357825396">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="296" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1662357825396" />
+    <state width="1281" height="296" key="GridCell.Tab.0.center" timestamp="1662357825396">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="296" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1662357825396" />
+    <state width="1281" height="296" key="GridCell.Tab.0.left" timestamp="1662357825395">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="296" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1662357825395" />
+    <state width="1281" height="296" key="GridCell.Tab.0.right" timestamp="1662357825396">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="296" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1662357825396" />
     <state x="444" y="412" key="NewPhpFileDialog" timestamp="1662303115149">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="444" y="412" key="NewPhpFileDialog/0.0.1280.984@0.0.1280.984" timestamp="1662303115149" />
-    <state x="208" y="86" key="SettingsEditor" timestamp="1662303549384">
+    <state x="208" y="86" key="SettingsEditor" timestamp="1663506729952">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="208" y="86" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1662303549384" />
-    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup" timestamp="1662303419664">
+    <state x="208" y="86" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1663506729952" />
+    <state x="421" y="107" width="600" height="807" key="find.popup" timestamp="1662357662229">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1662303419664" />
+    <state x="421" y="107" width="600" height="807" key="find.popup/0.0.1280.984@0.0.1280.984" timestamp="1662357662229" />
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup" timestamp="1663505773061">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1663505773061" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/project about.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4739">
@@ -165,41 +165,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factories/HasFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="e#33#73#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -220,15 +189,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    <entry file="file://$PROJECT_DIR$/.editorconfig" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/project about.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="740">
+          <caret line="40" column="42" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
           <folding>
             <element signature="e#80#134#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#33#73#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/hashing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#7#47#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

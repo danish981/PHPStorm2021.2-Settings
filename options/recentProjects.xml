@@ -2,19 +2,56 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="C:/xampp/htdocs/laravel-demo">
+        <entry key="C:/xampp/htdocs/wp-demo-website">
           <value>
-            <RecentProjectMetaInfo frameTitle="laravel-demo – User.php" opened="true" projectWorkspaceId="2EItksvCmqspPd2yCwjC9xPzITM">
+            <RecentProjectMetaInfo frameTitle="wp-demo-website – wp-activate.php" projectWorkspaceId="2FuTedehSqQybify52QAmZV1UsT">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-212.4746.100" />
-              <option name="buildTimestamp" value="1627477053466" />
+              <option name="buildTimestamp" value="1627477076656" />
+              <frame x="220" y="336" width="1280" height="984" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1665341066716" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PhpstormProjects/untitled2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled2" projectWorkspaceId="2GAi5ytcNiLV6XbIB3bnBOJcXU9">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477052456" />
               <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1662295073793" />
+              <option name="projectOpenTimestamp" value="1665837610004" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/d-world-dev">
+          <value>
+            <RecentProjectMetaInfo frameTitle="d-world-dev – DToneTransaction.php" projectWorkspaceId="2FuTx5Qf1QGIwUOx0xKb7amImtx">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477046263" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1665854629834" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/laravel-demo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="laravel-demo – package.json" opened="true" projectWorkspaceId="2GAjOKVHPA5AqV8Rc1NM4fHCac8">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477046263" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1665854664256" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/PhpstormProjects" />
   </component>
 </application>

@@ -1,0 +1,26 @@
+<application>
+  <component name="libraryTable">
+    <library name="toastr" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_toastr.js_latest_toastr.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/__cdnjs.cloudflare.com_ajax_libs_toastr.js_latest_toastr.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="toastr.js" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_toastr.js_latest_toastr.min.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_toastr.js_latest_toastr.min.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

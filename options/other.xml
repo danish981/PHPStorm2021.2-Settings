@@ -3,7 +3,7 @@
     <local-interpreter path="C:/Program Files/nodejs/node.exe" />
   </component>
   <component name="NotRoamableUiSettings">
-    <option name="fontFace" value="Fira Code" />
+    <option name="fontFace" value="Consolas" />
     <option name="fontScale" value="1.0" />
     <option name="fontSize" value="11" />
   </component>
@@ -20,27 +20,72 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="2EL0027qvBJmyzXgzA6nSliCtx3">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EwGs1AppB6r48QO1tt9pRnlsjz">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2EwWo5my0Ofa7PtLwomjCRh4Rdv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Ewpd8wSbLRT5yrO8JAsQzw30GC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FuTedehSqQybify52QAmZV1UsT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FuTx5Qf1QGIwUOx0xKb7amImtx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GAi5ytcNiLV6XbIB3bnBOJcXU9">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GAjOKVHPA5AqV8Rc1NM4fHCac8">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
       </map>
     </trackers>
   </component>
   <component name="PropertiesComponent">
-    <property name="InstalledPluginsSearchHistory" value="editorconfig&#10;editorconfi&#10;editorco&#10;editor&#10;edito" />
-    <property name="KEYMAP" value="scratch file&#10;php file&#10;font" />
-    <property name="MarketplacePluginsSearchHistory" value="oceani&#10;one dar&#10;one dark&#10;light&#10;idea" />
+    <property name="InstalledPluginsSearchHistory" value="git&#10;file icons&#10;w&#10;wo&#10;wor" />
+    <property name="KEYMAP" value="close&#10;scratch file&#10;php file&#10;font" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="Markdown Split EditorLayout" value="Preview only" />
+    <property name="MarketplacePluginsSearchHistory" value="cyan light&#10;cya&#10;git&#10;g&#10;github toolbox" />
     <property name="NextRunPlatformUpdateBuild" value="PS-212.5712.51/2021.2.4" />
     <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PhpStorm.InitialConfiguration" value="true" />
     <property name="PluginConfigurable.selectionTab" value="1" />
-    <property name="SettingsSearchHistory" value="built in preview&#10;hard wrap&#10;ctrl+&#10;scroll+&#10;upd" />
-    <property name="appcds.runOnSecondStart" value="PS-212.4746.100-32cf6a9b6107a21fa2c9bf85a097b221614087a2b13eb4054291a5827d17d544" />
+    <property name="RunOnceActivity.laravel-idea.show-eloquent-helper-code-action-info" value="true" />
+    <property name="SettingsSearchHistory" value="terminal name&#10;built in preview&#10;hard wrap&#10;ctrl+&#10;scroll+" />
+    <property name="appcds.runOnSecondStart" value="PS-212.4746.100-762dbcdbb4075c00133b17b279843d39ad80833c359fb844e6f07d1456d5a97b" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
-    <property name="evlsprt3.212" value="16" />
+    <property name="evlsprt3.212" value="17" />
     <property name="file.chooser.recent.files" value="C:/xampp/htdocs/demo-laravel-project&#10;C:/Users/HomePC/Downloads/ide-eval-resetter-2.1.14-d2fedb86.zip" />
-    <property name="file.gist.reindex.count" value="18" />
-    <property name="fileTypeChangedCounter" value="1" />
-    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="file.gist.reindex.count" value="347" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="PS-212.4746.100" />
     <property name="ide.updates.whats.new.shown.for" value="212" />
@@ -49,14 +94,22 @@
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
     <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
     <property name="registry.to.advanced.settings.migration.build" value="PS-212.4746.100" />
+    <property name="selected.color.option.type" value="PHP_SCRIPTING_BACKGROUND" />
+    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
     <property name="settings.code.style.selected.tab.PHP" value="Code Generation" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="ts.lib.d.ts.version" value="4.3.5" />
   </component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="laravel-demo-history1" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1662295342200" />
-      <command-history-file filename="laravel-demo-history" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1662295204803" />
+      <command-history-file filename="lv-metronic-theme-history3" project-path="C:/xampp/htdocs/lv-metronic-theme" last-access-time="1664600334719" />
+      <command-history-file filename="lv-metronic-theme-history1" project-path="C:/xampp/htdocs/lv-metronic-theme" last-access-time="1664600334732" />
+      <command-history-file filename="lv-metronic-theme-history2" project-path="C:/xampp/htdocs/lv-metronic-theme" last-access-time="1664600334736" />
+      <command-history-file filename="laravel-demo-history1" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1663505744834" />
+      <command-history-file filename="laravel-dworld-dummy-history" project-path="C:/xampp/htdocs/laravel-dworld-dummy" last-access-time="1663397036287" />
+      <command-history-file filename="d-world-dev-history1" project-path="C:/xampp/htdocs/d-world-dev" last-access-time="1665810786941" />
+      <command-history-file filename="laravel-demo-history" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1663505744832" />
+      <command-history-file filename="laravel-dworld-dummy-history2" project-path="C:/xampp/htdocs/laravel-dworld-dummy" last-access-time="1663397036298" />
     </command-history-files>
   </component>
   <component name="ToolbarSettingsService">
