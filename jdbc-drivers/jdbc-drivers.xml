@@ -25,6 +25,10 @@
             md5=""/>
       <item type="license" name="hsqldb-license.txt" url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/hsqldb-license.txt" md5=""/>
     </version>
+    <version version="2.7.0">
+      <item type="maven" url="org.hsqldb:hsqldb:2.7.0"/>
+      <item type="license" name="hsqldb-license.txt" url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/hsqldb-license.txt" md5=""/>
+    </version>
   </artifact>
 
   <artifact name="MySQL Connector/J">
@@ -134,6 +138,10 @@
       <item type="license" name="mysql-connector-license.txt"
             url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/mariadb-connector-license.txt" md5=""/>
     </version>
+    <channel id="MariaDB_2.X" name="MariaDB Connector/J 2.X"  implicit="true" />
+    <version version="3.0.7" >
+      <item  type="maven" url="org.mariadb.jdbc:mariadb-java-client:3.0.7"/>
+    </version>
   </artifact>
 
   <artifact name="PostgreSQL">
@@ -198,6 +206,14 @@
     </version>
     <version version="42.4.0">
       <item type="maven" url="org.postgresql:postgresql:42.4.0"/>
+      <item os="win" type="maven" url="net.java.dev.jna:jna-platform:5.12.0"/>
+      <item os="win" type="maven" url="net.java.dev.jna:jna:5.12.0"/>
+      <item os="win" type="maven" url="com.github.waffle:waffle-jna:1.9.1"/>
+      <item type="license" name="postgresql-driver-license.txt"
+            url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/postgresql-driver-license.txt" md5=""/>
+    </version>
+    <version version="42.5.0">
+      <item type="maven" url="org.postgresql:postgresql:42.5.0"/>
       <item os="win" type="maven" url="net.java.dev.jna:jna-platform:5.12.0"/>
       <item os="win" type="maven" url="net.java.dev.jna:jna:5.12.0"/>
       <item os="win" type="maven" url="com.github.waffle:waffle-jna:1.9.1"/>
@@ -435,6 +451,14 @@
             url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/sqlite/license.txt"
             md5=""/>
     </version>
+    <version version="3.39.2">
+      <item name="sqlite-jdbc-3.39.2.jar"
+            url="https://github.com/xerial/sqlite-jdbc/releases/download/3.39.2.0/sqlite-jdbc-3.39.2.0.jar"
+            md5=""/>
+      <item type="license" name="xerial-sqlite-license.txt"
+            url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/sqlite/license.txt"
+            md5=""/>
+    </version>
   </artifact>
 
   <artifact name="H2">
@@ -586,6 +610,13 @@
       <item type="license" name="mssql-jdbc_auth_LICENSE.txt" url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MSSQL/10/mssql-jdbc_auth_LICENSE"/>
       <item type="license" name="LICENSE.txt" url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MSSQL/10/LICENSE" md5=""/>
     </version>
+    <version version="11.2.0">
+      <item type="maven" url="com.microsoft.sqlserver:mssql-jdbc:11.2.0.jre8"/>
+      <item os="win" type="native" name="sqlserver-win-auth.jar"
+            url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MSSQL/11/sqlserver1120-win-auth.jar" md5=""/>
+      <item type="license" name="mssql-jdbc_auth_LICENSE.txt" url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MSSQL/11/mssql-jdbc_auth_LICENSE"/>
+      <item type="license" name="LICENSE.txt" url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MSSQL/11/LICENSE" md5=""/>
+    </version>
   </artifact>
 
   <artifact name="Redshift">
@@ -727,6 +758,13 @@
             md5=""/>
       <item type="license" name="exasol-license.txt" url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/exasol-license.txt" md5=""/>
     </version>
+    <version version="7.1.11">
+      <item name="exajdbc-7.1.11.jar"
+            url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/Exasol/7/exajdbc-7.1.11.jar"
+            md5=""/>
+      <item type="license" name="exasol-license.txt"
+            url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/exasol-license.txt" md5=""/>
+    </version>
   </artifact>
 
   <artifact name="ClickHouse">
@@ -755,8 +793,24 @@
             url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/ClickHouse/clickhouse-license.txt" md5=""/>
       <item type="maven" url="ru.yandex.clickhouse:clickhouse-jdbc:0.3.1-patch"/>
     </version>
+  </artifact>
+  <artifact name="ClickHouse">
+    <property name="driver.class" value="com.clickhouse.jdbc.ClickHouseDriver"/>
     <constraint from="0.3.2" db-from="20.7"/><!-- todo: compat -->
     <unsupported from="0.3.2" db-to="20.7"/>
+    <version version="0.3.2-9">
+      <item type="license" name="clickhouse-license.txt"
+            url="https://github.com/ClickHouse/clickhouse-jdbc/releases/download/v0.3.2-patch9/LICENSE"/>
+      <item type="maven" url="com.clickhouse:clickhouse-jdbc:0.3.2-patch9"/>
+    </version>
+    <version version="0.3.2-11">
+      <unsupported ide-to="222.3245"/>
+      <item type="license" name="clickhouse-license.txt"
+            url="https://github.com/ClickHouse/clickhouse-jdbc/releases/download/v0.3.2-patch11/LICENSE"/>
+      <item name="clickhouse-jdbc-0.3.2-patch11.jar"
+            url="https://github.com/ClickHouse/clickhouse-jdbc/releases/download/v0.3.2-patch11/clickhouse-jdbc-0.3.2-patch11-all.jar"
+            md5=""/>
+    </version>
   </artifact>
 
   <artifact name="Cassandra">
@@ -908,6 +962,14 @@
     <version version="1.15">
       <item name="mongo-jdbc-standalone-1.15.jar"
             url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MongoDB/1.15/mongo-jdbc-standalone-1.15.jar"
+            md5=""/>
+      <item type="license" name="mongodb-license.txt"
+            url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MongoDB/mongodb-license.txt"
+            md5=""/>
+    </version>
+    <version version="1.16">
+      <item name="mongo-jdbc-standalone-1.16.jar"
+            url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MongoDB/1.16/mongo-jdbc-standalone-1.16.jar"
             md5=""/>
       <item type="license" name="mongodb-license.txt"
             url="https://cache-redirector.jetbrains.com/download.jetbrains.com/idea/jdbc-drivers/MongoDB/mongodb-license.txt"

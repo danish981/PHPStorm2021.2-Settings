@@ -1,16 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="1" l="1665813917239" />
+      <i c="3" l="1665865770075" />
     </e>
     <e n="$Delete">
       <i c="3" l="1665341783493" />
     </e>
     <e n="$SelectAll">
-      <i c="7" l="1662361900311" />
+      <i c="13" l="1665924162413" />
     </e>
     <e n="$Undo">
-      <i c="16" l="1665856135931" />
+      <i c="26" l="1665916831659" />
     </e>
     <e n="About">
       <i c="2" l="1665837424839" />
@@ -22,7 +22,7 @@
       <i c="2" l="1663494642280" />
     </e>
     <e n="ActivateTerminalToolWindow">
-      <i c="67" l="1665855925386" />
+      <i c="78" l="1665928770818" />
     </e>
     <e n="CloseContent">
       <i c="1" l="1664601538920" />
@@ -31,91 +31,100 @@
       <i c="15" l="1665854662744" />
     </e>
     <e n="CodeCompletion">
-      <i c="3" l="1665856327525" />
+      <i c="12" l="1665916836250" />
     </e>
     <e n="CommentByLineComment">
       <i c="8" l="1663397436523" />
+    </e>
+    <e n="Console.Jdbc.ChooseSession">
+      <i c="1" l="1665864241311" />
+    </e>
+    <e n="Console.Jdbc.Execute">
+      <i c="9" l="1665864566242" />
     </e>
     <e n="CopyElement">
       <i c="1" l="1663410985688" />
     </e>
     <e n="DatabaseView.PropertiesAction">
-      <i c="1" l="1662294588986" />
+      <i c="2" l="1665857421080" />
     </e>
     <e n="EditSource">
       <i c="4" l="1665838452612" />
     </e>
     <e n="EditorBackSpace">
-      <i c="901" l="1665856311142" />
+      <i c="1294" l="1665925007815" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="48" l="1665856326437" />
+      <i c="151" l="1665925011783" />
     </e>
     <e n="EditorCopy">
-      <i c="17" l="1665810439831" />
+      <i c="18" l="1665866194503" />
     </e>
     <e n="EditorCut">
-      <i c="1" l="1665855983727" />
+      <i c="2" l="1665864531411" />
     </e>
     <e n="EditorDecreaseFontSize">
       <i c="4" l="1662361627560" />
     </e>
     <e n="EditorDown">
-      <i c="514" l="1665856296694" />
+      <i c="640" l="1665924801464" />
     </e>
     <e n="EditorDownWithSelection">
       <i c="2" l="1662290921372" />
     </e>
     <e n="EditorEnter">
-      <i c="143" l="1665856290277" />
+      <i c="205" l="1665924793033" />
     </e>
     <e n="EditorEscape">
-      <i c="46" l="1665856288038" />
+      <i c="58" l="1665923724431" />
     </e>
     <e n="EditorIncreaseFontSize">
-      <i c="75" l="1665856223960" />
+      <i c="138" l="1665921923083" />
     </e>
     <e n="EditorLeft">
-      <i c="13" l="1665856250151" />
+      <i c="93" l="1665925003816" />
     </e>
     <e n="EditorLeftWithSelection">
-      <i c="61" l="1665810322355" />
+      <i c="146" l="1665925000536" />
     </e>
     <e n="EditorLineEnd">
       <i c="6" l="1663522649175" />
     </e>
     <e n="EditorPageDown">
-      <i c="537" l="1665853991911" />
+      <i c="567" l="1665864247778" />
     </e>
     <e n="EditorPageUp">
-      <i c="921" l="1665853993064" />
+      <i c="961" l="1665864285170" />
     </e>
     <e n="EditorPaste">
-      <i c="7" l="1665812746831" />
+      <i c="10" l="1665866203127" />
     </e>
     <e n="EditorResetFontSize">
-      <i c="42" l="1665810366166" />
+      <i c="45" l="1665921920859" />
     </e>
     <e n="EditorRight">
-      <i c="110" l="1665856332166" />
+      <i c="283" l="1665925005245" />
     </e>
     <e n="EditorRightWithSelection">
-      <i c="6" l="1663395603109" />
+      <i c="52" l="1665925007384" />
     </e>
     <e n="EditorSelectWord">
       <i c="2" l="1665838631373" />
     </e>
+    <e n="EditorSplitLine">
+      <i c="3" l="1665916122638" />
+    </e>
     <e n="EditorTab">
-      <i c="11" l="1665856183250" />
+      <i c="20" l="1665916750524" />
     </e>
     <e n="EditorToggleInsertState">
       <i c="2" l="1662294251097" />
     </e>
     <e n="EditorUp">
-      <i c="390" l="1665856290662" />
+      <i c="453" l="1665922321225" />
     </e>
     <e n="EditorUpWithSelection">
-      <i c="63" l="1665856000232" />
+      <i c="83" l="1665924742475" />
     </e>
     <e n="ExpandAllRegions">
       <i c="3" l="1663397191084" />
@@ -126,11 +135,14 @@
     <e n="FindInPath">
       <i c="1" l="1662357654816" />
     </e>
+    <e n="GotoClass">
+      <i c="3" l="1665924176333" />
+    </e>
     <e n="GotoDeclaration">
-      <i c="96" l="1665853994660" />
+      <i c="106" l="1665924719279" />
     </e>
     <e n="GotoFile">
-      <i c="78" l="1665856203382" />
+      <i c="85" l="1665867295728" />
     </e>
     <e n="GotoTypeDeclaration">
       <i c="1" l="1662303334553" />
@@ -142,49 +154,55 @@
       <i c="6" l="1663394630924" />
     </e>
     <e n="NewElement">
-      <i c="2" l="1662361379405" />
+      <i c="3" l="1665924156820" />
     </e>
     <e n="NewFile">
-      <i c="1" l="1662361380925" />
+      <i c="2" l="1665924158303" />
     </e>
     <e n="NewScratchFile">
       <i c="4" l="1662303247058" />
     </e>
     <e n="ParameterInfo">
-      <i c="3" l="1665856314005" />
+      <i c="12" l="1665922649515" />
     </e>
     <e n="PhpNewFile">
       <i c="1" l="1662303114503" />
     </e>
     <e n="QuickJavaDoc">
-      <i c="9" l="1665856271407" />
+      <i c="13" l="1665916124651" />
     </e>
     <e n="RecentFiles">
       <i c="2" l="1664600432143" />
     </e>
     <e n="ReformatCode">
-      <i c="100" l="1665856287206" />
+      <i c="112" l="1665922425959" />
     </e>
     <e n="RenameElement">
       <i c="1" l="1662303268178" />
     </e>
     <e n="RunAnything">
-      <i c="22" l="1665815700854" />
+      <i c="23" l="1665923721408" />
     </e>
     <e n="SaveAll">
       <i c="1" l="1662361408105" />
     </e>
+    <e n="Scratch.ChangeLanguage">
+      <i c="1" l="1665924166686" />
+    </e>
     <e n="SearchEverywhere">
-      <i c="3" l="1665815704661" />
+      <i c="7" l="1665924116588" />
     </e>
     <e n="SelectInProjectView">
-      <i c="9" l="1665265786891" />
+      <i c="12" l="1665865768550" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="2" l="1663523822049" />
+      <i c="3" l="1665864290564" />
     </e>
     <e n="ShowSettings">
-      <i c="63" l="1665855679987" />
+      <i c="66" l="1665924297284" />
+    </e>
+    <e n="TabList">
+      <i c="2" l="1665866039419" />
     </e>
     <e n="Terminal.MoveToEditor">
       <i c="1" l="1663517171599" />
@@ -205,10 +223,19 @@
       <i c="1" l="1662288781621" />
     </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="9" l="1665853578257" />
+      <i c="13" l="1665866965007" />
     </e>
     <e n="com.intellij.codeInsight.documentation.render.DocRenderItem$ToggleRenderingAction">
       <i c="6" l="1662290822049" />
+    </e>
+    <e n="com.intellij.database.console.InlineProgressHelper$RequestStatusGutterRenderer$NavigateToErrorAction">
+      <i c="6" l="1665864564814" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1665857438476" />
+    </e>
+    <e n="com.intellij.database.view.ui.DataSourcesSideTab$AddAction">
+      <i c="1" l="1665857437136" />
     </e>
     <e n="com.intellij.diagnostic.WindowsDefenderChecker$1">
       <i c="1" l="1662288989645" />
@@ -238,7 +265,7 @@
       <i c="59" l="1662302981427" />
     </e>
     <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
-      <i c="6" l="1665854684112" />
+      <i c="7" l="1665924347588" />
     </e>
     <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
       <i c="2" l="1665838221831" />
@@ -253,7 +280,7 @@
       <i c="4" l="1663523766827" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="186" l="1665856196234" />
+      <i c="204" l="1665867056497" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="7" l="1662303215430" />
@@ -268,19 +295,19 @@
       <i c="1" l="1662303197764" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="86" l="1665856205398" />
+      <i c="99" l="1665924178605" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="2" l="1664600435204" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$4">
-      <i c="7" l="1665853693402" />
+      <i c="9" l="1665865835577" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="3" l="1665837423429" />
     </e>
     <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
-      <i c="12" l="1665837945330" />
+      <i c="17" l="1665867038684" />
     </e>
     <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
       <i c="2" l="1663397609276" />
@@ -295,10 +322,10 @@
       <i c="1" l="1662290516850" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
-      <i c="20" l="1665855773440" />
+      <i c="26" l="1665865755450" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
-      <i c="8" l="1663523589905" />
+      <i c="11" l="1665864975839" />
     </e>
     <e n="com.intellij.ui.content.tabs.TabbedContentAction$MyNextTabAction">
       <i c="1" l="1662361896039" />
@@ -322,13 +349,22 @@
       <i c="2" l="1662360135665" />
     </e>
     <e n="com.laravel_idea.plugin.generation.c.e">
-      <i c="5" l="1665856088824" />
+      <i c="9" l="1665866355398" />
+    </e>
+    <e n="nl.deschepers.laraveltinker.action.OpenLastConsoleAction">
+      <i c="2" l="1665866035691" />
+    </e>
+    <e n="nl.deschepers.laraveltinker.action.OpenNewConsoleAction">
+      <i c="1" l="1665865797933" />
+    </e>
+    <e n="nl.deschepers.laraveltinker.action.SmartAction">
+      <i c="1" l="1665864979845" />
     </e>
     <e n="org.intellij.plugins.markdown.ui.actions.scrolling.AutoScrollAction">
       <i c="1" l="1663523764531" />
     </e>
     <e n="org.jetbrains.plugins.terminal.AbstractTerminalRunner$2">
-      <i c="7" l="1665855759878" />
+      <i c="8" l="1665865772701" />
     </e>
   </component>
 </application>

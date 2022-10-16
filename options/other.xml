@@ -64,24 +64,24 @@
     </trackers>
   </component>
   <component name="PropertiesComponent">
-    <property name="InstalledPluginsSearchHistory" value="terminal&#10;termin&#10;term&#10;te&#10;git" />
+    <property name="InstalledPluginsSearchHistory" value="test data&#10;terminal&#10;termin&#10;term&#10;te" />
     <property name="KEYMAP" value="close&#10;scratch file&#10;php file&#10;font" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
     <property name="Markdown Split EditorLayout" value="Preview only" />
-    <property name="MarketplacePluginsSearchHistory" value="cyan light&#10;cya&#10;git&#10;g&#10;github toolbox" />
+    <property name="MarketplacePluginsSearchHistory" value="test data&#10;fake random data gene&#10;fake random data e&#10;fake random data&#10;tinker" />
     <property name="NextRunPlatformUpdateBuild" value="PS-212.5712.51/2021.2.4" />
     <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PhpStorm.InitialConfiguration" value="true" />
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="RunOnceActivity.laravel-idea.show-eloquent-helper-code-action-info" value="true" />
-    <property name="SettingsSearchHistory" value="terminal&#10;terminal name&#10;built in preview&#10;hard wrap&#10;ctrl+" />
-    <property name="appcds.runOnSecondStart" value="PS-212.4746.100-762dbcdbb4075c00133b17b279843d39ad80833c359fb844e6f07d1456d5a97b" />
+    <property name="SettingsSearchHistory" value="test data&#10;terminal&#10;terminal name&#10;built in preview&#10;hard wrap" />
+    <property name="appcds.runOnSecondStart" value="PS-212.4746.100-149014e99dacb4ecca43433241a70d2e1a63c9608ec576082d3bf334b8e77516" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="evlsprt3.212" value="17" />
     <property name="file.chooser.recent.files" value="C:/xampp/htdocs/demo-laravel-project&#10;C:/Users/HomePC/Downloads/ide-eval-resetter-2.1.14-d2fedb86.zip" />
-    <property name="file.gist.reindex.count" value="351" />
+    <property name="file.gist.reindex.count" value="378" />
     <property name="fileTypeChangedCounter" value="2" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
@@ -105,12 +105,11 @@
       <command-history-file filename="lv-metronic-theme-history3" project-path="C:/xampp/htdocs/lv-metronic-theme" last-access-time="1664600334719" />
       <command-history-file filename="lv-metronic-theme-history1" project-path="C:/xampp/htdocs/lv-metronic-theme" last-access-time="1664600334732" />
       <command-history-file filename="lv-metronic-theme-history2" project-path="C:/xampp/htdocs/lv-metronic-theme" last-access-time="1664600334736" />
-      <command-history-file filename="laravel-demo-history2" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1665855643956" />
       <command-history-file filename="laravel-dworld-dummy-history" project-path="C:/xampp/htdocs/laravel-dworld-dummy" last-access-time="1663397036287" />
-      <command-history-file filename="laravel-demo-history1" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1665855759885" />
+      <command-history-file filename="laravel-demo-history1" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1665924813344" />
       <command-history-file filename="d-world-dev-history1" project-path="C:/xampp/htdocs/d-world-dev" last-access-time="1665810786941" />
       <command-history-file filename="laravel-dworld-dummy-history2" project-path="C:/xampp/htdocs/laravel-dworld-dummy" last-access-time="1663397036298" />
-      <command-history-file filename="laravel-demo-history" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1665855736956" />
+      <command-history-file filename="laravel-demo-history" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1665924813333" />
     </command-history-files>
   </component>
   <component name="ToolbarSettingsService">
