@@ -6,6 +6,7 @@ NodeJS
 PerforceDirectPlugin
 Subversion
 XPathView
+color.scheme.One Dark Pro
 com.intellij.CloudConfig
 com.intellij.apacheConfig
 com.intellij.copyright
@@ -14,7 +15,7 @@ com.intellij.laf.win10
 com.intellij.phing
 com.intellij.php.phpt
 com.intellij.php.psalm
-com.intellij.php.tools.quality.phpstan
+com.intellij.plugins.watcher
 com.intellij.swagger
 com.intellij.tasks
 com.intellij.tasks.timeTracking
@@ -32,6 +33,7 @@ com.jetbrains.plugins.webDeployment
 com.jetbrains.restClient
 com.jetbrains.sh
 com.jetbrains.twig
+com.mallowigi
 gherkin
 hg4idea
 hunspell

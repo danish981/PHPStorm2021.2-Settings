@@ -10,6 +10,11 @@
   <component name="ProjectPluginTrackerManager">
     <trackers>
       <map>
+        <entry key="1z6SYXP6CA4kYTT3PoOxmCjkynR">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
         <entry key="2D2QucxJL6lg2Ji35aCrfojUnxn">
           <value>
             <ProjectPluginTracker />
@@ -60,31 +65,124 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="2GDiNhVN0FXB45VFFiUQMVnhCwH">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GDkW00VAVrIk78l5cqMv4F9ixB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HGAADm8QGQh1ofAIt8MGGXWPYW">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HK1DzaLLYCL9L4OwvOWPZvsMEp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HRAEejEeoy3Qs79LTWPbVWfcAh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HRivwgilhslDS6AcOmi1yYRpyf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HkZlaNhtYO8OlM9CsibFCO7CVB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2ISAOZNyFPIuin1TyVYQb415T0y">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Ih1OE5TDE3uFrs92zLNVDxUpGl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IiBQy12SNzTszqCWuedffgD3t6">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Iigz37FcY4lzLHAitpmZtvB1Mf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IjlM5z7MRuBNPxSdUEfLGLWFPc">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2K3Fo3vJGh1DcyWDQAis3FToZ8v">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2KKlhabC8Xj3M3uo5ky3rwWVTN1">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2KKnhgOuaza5bTVqntU4fV1fxiN">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2KKppgBB2uISY0r3IYUB4G5Qx9W">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2KMUdxitq4Z86oC6u42uWvdmYTu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2KMePkTwrmL58E8d2nBZQnyqGrf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
       </map>
     </trackers>
   </component>
   <component name="PropertiesComponent">
-    <property name="InstalledPluginsSearchHistory" value="test data&#10;terminal&#10;termin&#10;term&#10;te" />
-    <property name="KEYMAP" value="close&#10;scratch file&#10;php file&#10;font" />
+    <property name="InstalledPluginsSearchHistory" value="atom material&#10;atom materi&#10;atom mate&#10;atom mat&#10;atom ma" />
+    <property name="KEYMAP" value="scratch file&#10;close&#10;php file&#10;font" />
+    <property name="LayoutCode.codeCleanup" value="true" />
     <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
-    <property name="Markdown Split EditorLayout" value="Preview only" />
-    <property name="MarketplacePluginsSearchHistory" value="test data&#10;fake random data gene&#10;fake random data e&#10;fake random data&#10;tinker" />
+    <property name="Markdown Split EditorLayout" value="Editor only" />
+    <property name="MarketplacePluginsSearchHistory" value="alpine js&#10;material icons&#10;git&#10;file icon&#10;file ico" />
     <property name="NextRunPlatformUpdateBuild" value="PS-212.5712.51/2021.2.4" />
     <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PhpStorm.InitialConfiguration" value="true" />
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="RunOnceActivity.laravel-idea.show-eloquent-helper-code-action-info" value="true" />
-    <property name="SettingsSearchHistory" value="test data&#10;terminal&#10;terminal name&#10;built in preview&#10;hard wrap" />
-    <property name="appcds.runOnSecondStart" value="PS-212.4746.100-149014e99dacb4ecca43433241a70d2e1a63c9608ec576082d3bf334b8e77516" />
+    <property name="SettingsSearchHistory" value="`&#10;test data&#10;terminal&#10;terminal name&#10;built in preview" />
+    <property name="appcds.runOnSecondStart" value="PS-212.4746.100-8824c361add49b7c6901282c00bc05da39a02df1f55f0dff4b020e160cfc75f7" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
-    <property name="evlsprt3.212" value="17" />
-    <property name="file.chooser.recent.files" value="C:/xampp/htdocs/demo-laravel-project&#10;C:/Users/HomePC/Downloads/ide-eval-resetter-2.1.14-d2fedb86.zip" />
-    <property name="file.gist.reindex.count" value="378" />
+    <property name="evlsprt3.212" value="11" />
+    <property name="file.chooser.recent.files" value="C:/xampp/htdocs&#10;C:/xampp/htdocs/demo-laravel-project&#10;C:/Users/HomePC/Downloads/ide-eval-resetter-2.1.14-d2fedb86.zip" />
+    <property name="file.gist.reindex.count" value="698" />
     <property name="fileTypeChangedCounter" value="2" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="PS-212.4746.100" />
@@ -95,21 +193,24 @@
     <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
     <property name="registry.to.advanced.settings.migration.build" value="PS-212.4746.100" />
     <property name="selected.color.option.type" value="PHP_SCRIPTING_BACKGROUND" />
-    <property name="settings.code.style.selected.tab.HTML" value="Tabs and Indents" />
-    <property name="settings.code.style.selected.tab.PHP" value="Code Generation" />
+    <property name="settings.code.style.selected.tab.HTML" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.PHP" value="Blank Lines" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="ts.lib.d.ts.version" value="4.3.5" />
+    <property name="vcs.branch.view.splitter.proportion" value="0.16201118" />
+    <property name="wordPress.support.wordPressPath" value="C:\xampp\htdocs\wp-sample-6.1.1" />
   </component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="lv-metronic-theme-history3" project-path="C:/xampp/htdocs/lv-metronic-theme" last-access-time="1664600334719" />
-      <command-history-file filename="lv-metronic-theme-history1" project-path="C:/xampp/htdocs/lv-metronic-theme" last-access-time="1664600334732" />
-      <command-history-file filename="lv-metronic-theme-history2" project-path="C:/xampp/htdocs/lv-metronic-theme" last-access-time="1664600334736" />
-      <command-history-file filename="laravel-dworld-dummy-history" project-path="C:/xampp/htdocs/laravel-dworld-dummy" last-access-time="1663397036287" />
-      <command-history-file filename="laravel-demo-history1" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1665924813344" />
-      <command-history-file filename="d-world-dev-history1" project-path="C:/xampp/htdocs/d-world-dev" last-access-time="1665810786941" />
-      <command-history-file filename="laravel-dworld-dummy-history2" project-path="C:/xampp/htdocs/laravel-dworld-dummy" last-access-time="1663397036298" />
-      <command-history-file filename="laravel-demo-history" project-path="C:/xampp/htdocs/laravel-demo" last-access-time="1665924813333" />
+      <command-history-file filename="MyPortfolio-history" project-path="D:/themes/MyPortfolio" last-access-time="1673642427119" />
+      <command-history-file filename="laravel-features-history" project-path="C:/xampp/htdocs/laravel-features" last-access-time="1673789801823" />
+      <command-history-file filename="lv-app9-history2" project-path="C:/xampp/htdocs/lv-app9" last-access-time="1673730993378" />
+      <command-history-file filename="lv-app9-history" project-path="C:/xampp/htdocs/lv-app9" last-access-time="1673730993376" />
+      <command-history-file filename="portfolio-site-1-history" project-path="C:/xampp/htdocs/portfolio-site-1" last-access-time="1673733478744" />
+      <command-history-file filename="php-practice-history1" project-path="C:/xampp/htdocs/php-practice" last-access-time="1673193886440" />
+      <command-history-file filename="laravel-features-history1" project-path="C:/xampp/htdocs/laravel-features" last-access-time="1673789801832" />
+      <command-history-file filename="danish981-history" project-path="C:/xampp/htdocs/danish981" last-access-time="1673788967732" />
+      <command-history-file filename="naruto-uzumaki-history" project-path="C:/xampp/htdocs/naruto-uzumaki" last-access-time="1673733291760" />
     </command-history-files>
   </component>
   <component name="ToolbarSettingsService">

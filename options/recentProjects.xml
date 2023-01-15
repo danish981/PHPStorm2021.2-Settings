@@ -2,51 +2,99 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="C:/xampp/htdocs/wp-demo-website">
-          <value>
-            <RecentProjectMetaInfo frameTitle="wp-demo-website – wp-activate.php" projectWorkspaceId="2FuTedehSqQybify52QAmZV1UsT">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-212.4746.100" />
-              <option name="buildTimestamp" value="1627477076656" />
-              <frame x="220" y="336" width="1280" height="984" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1665341066716" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/PhpstormProjects/untitled2">
           <value>
             <RecentProjectMetaInfo frameTitle="untitled2" projectWorkspaceId="2GAi5ytcNiLV6XbIB3bnBOJcXU9">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-212.4746.100" />
-              <option name="buildTimestamp" value="1627477052456" />
+              <option name="buildTimestamp" value="1627477039655" />
               <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1665837610004" />
+              <option name="projectOpenTimestamp" value="1670161958364" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/xampp/htdocs/d-world-dev">
+        <entry key="C:/xampp/htdocs/php-practice">
           <value>
-            <RecentProjectMetaInfo frameTitle="d-world-dev – DToneTransaction.php" projectWorkspaceId="2FuTx5Qf1QGIwUOx0xKb7amImtx">
+            <RecentProjectMetaInfo frameTitle="php-practice – reverseArray.php" projectWorkspaceId="1z6SYXP6CA4kYTT3PoOxmCjkynR">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-212.4746.100" />
-              <option name="buildTimestamp" value="1627477046263" />
+              <option name="buildTimestamp" value="1627477069184" />
               <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1665854629834" />
+              <option name="projectOpenTimestamp" value="1670703065586" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/xampp/htdocs/laravel-demo">
+        <entry key="D:/themes/MyPortfolio">
           <value>
-            <RecentProjectMetaInfo frameTitle="laravel-demo – C:\Users\HomePC\AppData\Roaming\JetBrains\PhpStorm2021.2\scratches\dummy.json" opened="true" projectWorkspaceId="2GAjOKVHPA5AqV8Rc1NM4fHCac8">
+            <RecentProjectMetaInfo frameTitle="MyPortfolio – index.html" projectWorkspaceId="2K3Fo3vJGh1DcyWDQAis3FToZ8v">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-212.4746.100" />
-              <option name="buildTimestamp" value="1627477046263" />
+              <option name="buildTimestamp" value="1627477039173" />
               <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1665854664256" />
+              <option name="projectOpenTimestamp" value="1673195531120" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/naruto-uzumaki">
+          <value>
+            <RecentProjectMetaInfo frameTitle="naruto-uzumaki – index.html" projectWorkspaceId="2KKnhgOuaza5bTVqntU4fV1fxiN">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477068958" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1673732262346" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/portfolio-site-1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="portfolio-site-1 – index.html" projectWorkspaceId="2KKppgBB2uISY0r3IYUB4G5Qx9W">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477060619" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1673733312771" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/laravel-features">
+          <value>
+            <RecentProjectMetaInfo frameTitle="laravel-features – header.blade.php" projectWorkspaceId="2KKlhabC8Xj3M3uo5ky3rwWVTN1">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477060619" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1673733648814" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/d-world">
+          <value>
+            <RecentProjectMetaInfo frameTitle="d-world – README.md" projectWorkspaceId="2KMUdxitq4Z86oC6u42uWvdmYTu">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477032366" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1673784036651" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/danish981">
+          <value>
+            <RecentProjectMetaInfo frameTitle="danish981 – readme.md" opened="true" projectWorkspaceId="2KMePkTwrmL58E8d2nBZQnyqGrf">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477057549" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1673788856222" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

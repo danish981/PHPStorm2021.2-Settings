@@ -1,0 +1,14 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2022-10-16T19:55:35</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2021.2.0.0</property>
+    <property name="modified">2022-10-16T20:06:41</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
+    </option>
+  </attributes>
+</scheme>

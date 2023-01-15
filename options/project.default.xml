@@ -4,6 +4,9 @@
       <component name="ComposerSettings">
         <execution />
       </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="C:/xampp/htdocs" />
+      </component>
     </defaultProject>
   </component>
 </application>

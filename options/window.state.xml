@@ -1,7 +1,7 @@
 <application>
   <component name="DimensionService">
     <location key="find.popup.0.0.1280.1024" x="421" y="107" />
-    <size key="find.popup.0.0.1280.1024" width="600" height="807" />
+    <size key="find.popup.0.0.1280.1024" width="600" height="588" />
     <size key="GridCell.Tab.0.left.0.0.1280.1024" width="876" height="296" />
     <size key="GridCell.Tab.0.center.0.0.1280.1024" width="876" height="296" />
     <size key="GridCell.Tab.0.right.0.0.1280.1024" width="876" height="296" />
@@ -19,17 +19,21 @@
     </layout>
   </component>
   <component name="WindowStateApplicationService">
-    <state x="420" y="169" key="FileChooserDialogImpl" timestamp="1662288798985">
+    <state x="420" y="169" key="FileChooserDialogImpl" timestamp="1673733583979">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="420" y="169" key="FileChooserDialogImpl/0.0.1280.984" timestamp="1662288798985" />
-    <state width="1019" height="104" key="ShowUsagesActions.dimensionServiceKey" timestamp="1665853783709">
+    <state x="420" y="169" key="FileChooserDialogImpl/0.0.1280.984" timestamp="1673733583979" />
+    <state x="943" y="856" width="300" height="104" key="ProcessPopupWindow" timestamp="1673773739110">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1019" height="104" key="ShowUsagesActions.dimensionServiceKey/0.0.1280.984" timestamp="1665853783709" />
-    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN" timestamp="1665854663006">
+    <state x="943" y="856" width="300" height="104" key="ProcessPopupWindow/0.0.1280.984" timestamp="1673773739110" />
+    <state width="1019" height="104" key="ShowUsagesActions.dimensionServiceKey" timestamp="1670174761091">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN/0.0.1280.984" timestamp="1665854663006" />
+    <state width="1019" height="104" key="ShowUsagesActions.dimensionServiceKey/0.0.1280.984" timestamp="1670174761091" />
+    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN" timestamp="1673789704380">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN/0.0.1280.984" timestamp="1673789704380" />
   </component>
 </application>

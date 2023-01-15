@@ -3,7 +3,7 @@
     <property name="created">2022-10-15T22:39:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2022-10-15T22:42:12</property>
+    <property name="modified">2022-12-10T15:13:33</property>
     <property name="originalScheme">One Dark Pro</property>
   </metaInfo>
   <colors>
@@ -131,7 +131,6 @@
     <option name="SELECTED_INDENT_GUIDE" value="57b6c2" />
     <option name="SELECTED_TEARLINE_COLOR" value="57b6c2" />
     <option name="SELECTION_BACKGROUND" value="3e4451" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="3c4049" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3c4049" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2979ffc0" />
