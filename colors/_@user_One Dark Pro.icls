@@ -3,7 +3,7 @@
     <property name="created">2022-10-15T22:39:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2023-02-04T17:20:29</property>
+    <property name="modified">2023-02-04T21:47:52</property>
     <property name="originalScheme">One Dark Pro</property>
   </metaInfo>
   <colors>
@@ -2952,7 +2952,6 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c679dd" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_NUMBER">
@@ -2980,6 +2979,11 @@
       <value>
         <option name="FOREGROUND" value="61aeef" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="c679dd" />
       </value>
     </option>
     <option name="PHP_THIS_VAR">

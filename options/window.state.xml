@@ -8,7 +8,7 @@
     <size key="GridCell.Tab.0.bottom.0.0.1280.1024" width="876" height="296" />
   </component>
   <component name="WindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+    <frame x="-38" y="-15" width="1280" height="984" extendedState="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
