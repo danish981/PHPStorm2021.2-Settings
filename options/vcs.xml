@@ -10,6 +10,10 @@
           <option name="url" value="https://github.com/danish981/laravel-features.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/danish981/pract-website.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\xampp\htdocs" />

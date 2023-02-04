@@ -1,12 +1,9 @@
 AngularJS
 Docker
 JSIntentionPowerPack
-JavaScriptDebugger
-NodeJS
 PerforceDirectPlugin
 Subversion
 XPathView
-color.scheme.One Dark Pro
 com.intellij.CloudConfig
 com.intellij.apacheConfig
 com.intellij.copyright
@@ -32,8 +29,6 @@ com.jetbrains.plugins.ini4idea
 com.jetbrains.plugins.webDeployment
 com.jetbrains.restClient
 com.jetbrains.sh
-com.jetbrains.twig
-com.mallowigi
 gherkin
 hg4idea
 hunspell
@@ -47,7 +42,6 @@ org.jetbrains.plugins.phpstorm-remote-interpreter
 org.jetbrains.plugins.phpstorm-wsl
 org.jetbrains.plugins.rest
 org.jetbrains.plugins.vagrant
-org.jetbrains.plugins.yaml
 org.jetbrains.settingsRepository
 tanvd.grazi
 tslint

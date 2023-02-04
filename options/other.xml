@@ -155,18 +155,24 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="2KNFiALEbeqhC63ahGBKEbnfoox">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
       </map>
     </trackers>
   </component>
   <component name="PropertiesComponent">
-    <property name="InstalledPluginsSearchHistory" value="atom material&#10;atom materi&#10;atom mate&#10;atom mat&#10;atom ma" />
-    <property name="KEYMAP" value="scratch file&#10;close&#10;php file&#10;font" />
+    <property name="ColorChooser.RecentColors" value="89-98-111-255" />
+    <property name="InstalledPluginsSearchHistory" value="react&#10;reac&#10;rea&#10;re&#10;rr" />
+    <property name="KEYMAP" value="close&#10;scratch file&#10;php file&#10;font" />
     <property name="LayoutCode.codeCleanup" value="true" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.processChangedText" value="false" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
     <property name="Markdown Split EditorLayout" value="Editor only" />
-    <property name="MarketplacePluginsSearchHistory" value="alpine js&#10;material icons&#10;git&#10;file icon&#10;file ico" />
+    <property name="MarketplacePluginsSearchHistory" value="react&#10;reac&#10;sve&#10;s&#10;atom material i" />
     <property name="NextRunPlatformUpdateBuild" value="PS-212.5712.51/2021.2.4" />
     <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
@@ -174,13 +180,13 @@
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="RunOnceActivity.laravel-idea.show-eloquent-helper-code-action-info" value="true" />
     <property name="SettingsSearchHistory" value="`&#10;test data&#10;terminal&#10;terminal name&#10;built in preview" />
-    <property name="appcds.runOnSecondStart" value="PS-212.4746.100-8824c361add49b7c6901282c00bc05da39a02df1f55f0dff4b020e160cfc75f7" />
+    <property name="appcds.runOnSecondStart" value="PS-212.4746.100-adca3e9b98bfb3cfd0a1e897dbbd15b63ed31babcd6a8e60b05676def39e997e" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="evlsprt3.212" value="11" />
     <property name="file.chooser.recent.files" value="C:/xampp/htdocs&#10;C:/xampp/htdocs/demo-laravel-project&#10;C:/Users/HomePC/Downloads/ide-eval-resetter-2.1.14-d2fedb86.zip" />
-    <property name="file.gist.reindex.count" value="698" />
-    <property name="fileTypeChangedCounter" value="2" />
-    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="file.gist.reindex.count" value="703" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
     <property name="got.it.tooltip.database.schema.control.got.it" value="1" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
@@ -192,7 +198,7 @@
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
     <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
     <property name="registry.to.advanced.settings.migration.build" value="PS-212.4746.100" />
-    <property name="selected.color.option.type" value="PHP_SCRIPTING_BACKGROUND" />
+    <property name="selected.color.option.type" value="PHP_DOC_COMMENT_ID" />
     <property name="settings.code.style.selected.tab.HTML" value="Arrangement" />
     <property name="settings.code.style.selected.tab.PHP" value="Blank Lines" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
@@ -203,12 +209,13 @@
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
       <command-history-file filename="MyPortfolio-history" project-path="D:/themes/MyPortfolio" last-access-time="1673642427119" />
-      <command-history-file filename="laravel-features-history" project-path="C:/xampp/htdocs/laravel-features" last-access-time="1673789801823" />
+      <command-history-file filename="laravel-features-history" project-path="C:/xampp/htdocs/laravel-features" last-access-time="1675512856960" />
       <command-history-file filename="lv-app9-history2" project-path="C:/xampp/htdocs/lv-app9" last-access-time="1673730993378" />
+      <command-history-file filename="pract-website-history" project-path="C:/xampp/htdocs/pract-website" last-access-time="1674243783131" />
       <command-history-file filename="lv-app9-history" project-path="C:/xampp/htdocs/lv-app9" last-access-time="1673730993376" />
       <command-history-file filename="portfolio-site-1-history" project-path="C:/xampp/htdocs/portfolio-site-1" last-access-time="1673733478744" />
       <command-history-file filename="php-practice-history1" project-path="C:/xampp/htdocs/php-practice" last-access-time="1673193886440" />
-      <command-history-file filename="laravel-features-history1" project-path="C:/xampp/htdocs/laravel-features" last-access-time="1673789801832" />
+      <command-history-file filename="laravel-features-history1" project-path="C:/xampp/htdocs/laravel-features" last-access-time="1675512856970" />
       <command-history-file filename="danish981-history" project-path="C:/xampp/htdocs/danish981" last-access-time="1673788967732" />
       <command-history-file filename="naruto-uzumaki-history" project-path="C:/xampp/htdocs/naruto-uzumaki" last-access-time="1673733291760" />
     </command-history-files>
