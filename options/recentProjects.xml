@@ -86,15 +86,39 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/xampp/htdocs/laravel-features">
+        <entry key="C:/xampp/htdocs/danish981-github-profile">
           <value>
-            <RecentProjectMetaInfo frameTitle="laravel-features – TestController.php" opened="true" projectWorkspaceId="2KKlhabC8Xj3M3uo5ky3rwWVTN1">
+            <RecentProjectMetaInfo frameTitle="danish981-github-profile – README.md" projectWorkspaceId="2LJoUXUHkDlsUvc7wPQPSYuBnYL">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-212.4746.100" />
-              <option name="buildTimestamp" value="1627477066669" />
-              <frame x="-38" y="-15" width="1280" height="984" extendedState="6" />
+              <option name="buildTimestamp" value="1627477077403" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1674244615404" />
+              <option name="projectOpenTimestamp" value="1675578020205" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/laravel-features">
+          <value>
+            <RecentProjectMetaInfo frameTitle="laravel-features – api.php" projectWorkspaceId="2KKlhabC8Xj3M3uo5ky3rwWVTN1">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477049545" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1676137456038" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/STATICS-GITHUB/mt-vcard-resume-template">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mt-vcard-resume-template – index.html" opened="true" projectWorkspaceId="2LbkyGdFRyxLqxYpBBTap5TDDCJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477032155" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1676147421624" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

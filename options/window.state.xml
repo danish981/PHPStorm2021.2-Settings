@@ -8,7 +8,7 @@
     <size key="GridCell.Tab.0.bottom.0.0.1280.1024" width="876" height="296" />
   </component>
   <component name="WindowManager">
-    <frame x="-38" y="-15" width="1280" height="984" extendedState="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -23,17 +23,17 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="420" y="169" key="FileChooserDialogImpl/0.0.1280.984" timestamp="1673733583979" />
-    <state x="943" y="856" width="300" height="104" key="ProcessPopupWindow" timestamp="1673773739110">
+    <state x="943" y="856" width="300" height="104" key="ProcessPopupWindow" timestamp="1676133779083">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="943" y="856" width="300" height="104" key="ProcessPopupWindow/0.0.1280.984" timestamp="1673773739110" />
-    <state width="1019" height="104" key="ShowUsagesActions.dimensionServiceKey" timestamp="1670174761091">
+    <state x="943" y="856" width="300" height="104" key="ProcessPopupWindow/0.0.1280.984" timestamp="1676133779083" />
+    <state width="1019" height="148" key="ShowUsagesActions.dimensionServiceKey" timestamp="1675539243994">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="1019" height="104" key="ShowUsagesActions.dimensionServiceKey/0.0.1280.984" timestamp="1670174761091" />
-    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN" timestamp="1674244610352">
+    <state width="1019" height="148" key="ShowUsagesActions.dimensionServiceKey/0.0.1280.984" timestamp="1675539243994" />
+    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN" timestamp="1676147386507">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN/0.0.1280.984" timestamp="1674244610352" />
+    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN/0.0.1280.984" timestamp="1676147386507" />
   </component>
 </application>
