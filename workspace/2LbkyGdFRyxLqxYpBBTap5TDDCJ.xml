@@ -6,30 +6,52 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>henry</find>
       <find>contact</find>
+      <find>&lt;title&gt;Ma</find>
+      <find>downl</find>
+      <find>download</find>
+      <find>map</find>
+      <find>proposed</find>
+      <find>&quot;tw</find>
+      <find>&quot;fa</find>
+      <find>&quot;fa</find>
+      <find>download cv</find>
+      <find>home</find>
     </findStrings>
+    <replaceStrings>
+      <replace>&lt;title&gt;Danish | Resume&lt;/title&gt;</replace>
+      <replace>&quot;fab</replace>
+      <replace>&quot;fab</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\STATICS-GITHUB\mt-vcard-resume-template</dir>
+    </dirStrings>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/blog-posts/blog-1.html" />
+      <option value="$PROJECT_DIR$/blog-posts/blog-video-version.html" />
+      <option value="$PROJECT_DIR$/load-more/blog-posts.html" />
+      <option value="$PROJECT_DIR$/load-more/portfolio.html" />
+      <option value="$PROJECT_DIR$/portfolio-detail/work-01.html" />
+      <option value="$PROJECT_DIR$/portfolio-detail/work-02.html" />
+      <option value="$PROJECT_DIR$/blog-posts/blog-music-version.html" />
+      <option value="$PROJECT_DIR$/css/style.css" />
       <option value="$PROJECT_DIR$/index.html" />
     </changedPaths>
   </component>
@@ -50,6 +72,11 @@
               <item name="mt-vcard-resume-template" type="b2602c69:ProjectViewProjectNode" />
               <item name="mt-vcard-resume-template" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mt-vcard-resume-template" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mt-vcard-resume-template" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -59,16 +86,16 @@
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="Terminal" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="mt-vcard-resume-template-history" />
+      <TerminalTabState tabName="Terminal" currentWorkingDirectory="C:\xampp\htdocs\STATICS-GITHUB\mt-vcard-resume-template\" commandHistoryFileName="mt-vcard-resume-template-history" />
     </option>
   </component>
   <component name="ToolWindowManager">
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.123731464" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.123731464" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32977644" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="bottom" id="Run" order="3" />
@@ -78,7 +105,7 @@
       <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32977644" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32977644" />
       <window_info anchor="bottom" id="Flow" order="11" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="bottom" id="Services" order="13" show_stripe_button="false" />
@@ -86,8 +113,10 @@
       <window_info anchor="right" id="Database" order="1" />
     </layout>
     <recentWindows>
-      <value>Terminal</value>
       <value>Project</value>
+      <value>Terminal</value>
+      <value>Version Control</value>
+      <value>Find</value>
     </recentWindows>
   </component>
   <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
@@ -96,22 +125,26 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="376" y="195" key="RollbackChangesDialog/0.0.1280.984@0.0.1280.984" timestamp="1676147653293" />
-    <state x="227" y="155" key="SettingsEditor" timestamp="1676210945056">
+    <state x="147" y="113" key="SettingsEditor" timestamp="1676292871184">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="227" y="155" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1676210945056" />
-    <state width="498" height="306" key="SwitcherDM" timestamp="1676149042027">
+    <state x="147" y="113" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1676292871184" />
+    <state width="498" height="306" key="SwitcherDM" timestamp="1676298360101">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state width="498" height="306" key="SwitcherDM/0.0.1280.984@0.0.1280.984" timestamp="1676149042027" />
-    <state x="296" y="226" key="run.anything.popup" timestamp="1676207378843">
+    <state width="498" height="306" key="SwitcherDM/0.0.1280.984@0.0.1280.984" timestamp="1676298360101" />
+    <state x="421" y="107" width="600" height="588" key="find.popup" timestamp="1676272801892">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="296" y="226" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1676207378843" />
-    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup" timestamp="1676149045564">
+    <state x="421" y="107" width="600" height="588" key="find.popup/0.0.1280.984@0.0.1280.984" timestamp="1676272801892" />
+    <state x="296" y="226" width="672" height="684" key="run.anything.popup" timestamp="1676296475284">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1676149045564" />
+    <state x="296" y="226" width="672" height="684" key="run.anything.popup/0.0.1280.984@0.0.1280.984" timestamp="1676296475284" />
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup" timestamp="1676294872221">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="303" y="211" width="672" height="685" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1676294872221" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -128,17 +161,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio-detail/work-01.html">
+    <entry file="file://$PROJECT_DIR$/blog-posts/blog-music-version.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/blog-posts/blog-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="236" column="24" selection-start-line="236" selection-start-column="24" selection-end-line="236" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog-posts/blog-video-version.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="225" column="38" selection-start-line="225" selection-start-column="38" selection-end-line="225" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load-more/blog-posts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load-more/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-detail/work-01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio-detail/work-02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/profile.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#section#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#section#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#section#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#section#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#section#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#section#1;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="583" lean-forward="true" selection-start-line="583" selection-end-line="583" />
         </state>
       </provider>
     </entry>

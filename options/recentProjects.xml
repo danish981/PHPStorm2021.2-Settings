@@ -14,18 +14,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/xampp/htdocs/php-practice">
-          <value>
-            <RecentProjectMetaInfo frameTitle="php-practice – reverseArray.php" projectWorkspaceId="1z6SYXP6CA4kYTT3PoOxmCjkynR">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="PS-212.4746.100" />
-              <option name="buildTimestamp" value="1627477069184" />
-              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
-              <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1670703065586" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="D:/themes/MyPortfolio">
           <value>
             <RecentProjectMetaInfo frameTitle="MyPortfolio – index.html" projectWorkspaceId="2K3Fo3vJGh1DcyWDQAis3FToZ8v">
@@ -110,15 +98,27 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="C:/xampp/htdocs/STATICS-GITHUB/mt-vcard-resume-template">
+        <entry key="C:/xampp/htdocs/php-practice">
           <value>
-            <RecentProjectMetaInfo frameTitle="mt-vcard-resume-template – index.html" opened="true" projectWorkspaceId="2LbkyGdFRyxLqxYpBBTap5TDDCJ">
+            <RecentProjectMetaInfo frameTitle="php-practice – Functions.php" projectWorkspaceId="1z6SYXP6CA4kYTT3PoOxmCjkynR">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="PS-212.4746.100" />
-              <option name="buildTimestamp" value="1627477032155" />
+              <option name="buildTimestamp" value="1627477025856" />
               <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
               <option name="productionCode" value="PS" />
-              <option name="projectOpenTimestamp" value="1676147421624" />
+              <option name="projectOpenTimestamp" value="1676292886542" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:/xampp/htdocs/STATICS-GITHUB/mt-vcard-resume-template">
+          <value>
+            <RecentProjectMetaInfo frameTitle="mt-vcard-resume-template" projectWorkspaceId="2LbkyGdFRyxLqxYpBBTap5TDDCJ">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PS-212.4746.100" />
+              <option name="buildTimestamp" value="1627477025856" />
+              <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
+              <option name="productionCode" value="PS" />
+              <option name="projectOpenTimestamp" value="1676294706709" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

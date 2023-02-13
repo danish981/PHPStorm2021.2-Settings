@@ -20,49 +20,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/checkIndex.php">
+        <entry file="file://$PROJECT_DIR$/Index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="220">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abstractIndex.php">
+        <entry file="file://$PROJECT_DIR$/mainIndex.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codility/binaryGap.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#1279#1296#0#PHP" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="866">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hackerrank-challenges/reverseArray.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="320">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -70,37 +40,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainOne.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            <state relative-caret-position="480">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Yahoo.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classes/Functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="273">
+              <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+              <folding>
+                <element signature="e#7#113#0#PHP" expanded="true" />
+                <element signature="e#514#528#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lower_letters</find>
+      <find>letters</find>
+    </findStrings>
+  </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/mainOne.php" />
-      <option value="$PROJECT_DIR$/Yahoo.php" />
       <option value="$PROJECT_DIR$/charIndex.php" />
       <option value="$PROJECT_DIR$/codility/binaryGap.php" />
       <option value="$PROJECT_DIR$/style.css" />
-      <option value="$PROJECT_DIR$/Index.php" />
       <option value="$PROJECT_DIR$/classes/D.php" />
       <option value="$PROJECT_DIR$/terminalIndex.php" />
       <option value="$PROJECT_DIR$/checkIndex.php" />
       <option value="$PROJECT_DIR$/.gitignore" />
       <option value="$PROJECT_DIR$/hackerrank-challenges/reverseArray.php" />
+      <option value="$PROJECT_DIR$/Yahoo.php" />
+      <option value="$PROJECT_DIR$/classes/One.php" />
       <option value="$PROJECT_DIR$/abstractIndex.php" />
+      <option value="$PROJECT_DIR$/mainIndex.php" />
+      <option value="$PROJECT_DIR$/form.php" />
+      <option value="$PROJECT_DIR$/Index.php" />
+      <option value="$PROJECT_DIR$/classes/Functions.php" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -120,11 +104,6 @@
               <item name="php-practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-practice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="php-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="hackerrank-challenges" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -134,7 +113,7 @@
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="Terminal" currentWorkingDirectory="C:\xampp\htdocs\php-practice\" commandHistoryFileName="php-practice-history1" />
+      <TerminalTabState tabName="Terminal" currentWorkingDirectory="C:\xampp\htdocs\php-practice\" commandHistoryFileName="php-practice-history" />
     </option>
   </component>
   <component name="TodoView">
@@ -147,7 +126,6 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16900858" />
       <window_info id="Structure" order="1" side_tool="true" />
@@ -161,11 +139,11 @@
       <window_info anchor="bottom" id="Duplicates" order="5" weight="0.32977644" />
       <window_info anchor="bottom" id="Eval Reset" order="6" visible="true" weight="0.32977644" />
       <window_info anchor="bottom" id="Problems View" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39989838" />
       <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32977644" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.5625" />
       <window_info anchor="bottom" id="Flow" order="13" />
       <window_info anchor="bottom" id="TypeScript" order="14" />
       <window_info anchor="bottom" id="Services" order="15" show_stripe_button="false" />
@@ -175,6 +153,7 @@
     <recentWindows>
       <value>Terminal</value>
       <value>Project</value>
+      <value>Debug</value>
       <value>TODO</value>
       <value>Event Log</value>
       <value>Version Control</value>
@@ -190,45 +169,60 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="315" y="242" key="#PHP/0.0.1280.984@0.0.1280.984" timestamp="1673089311693" />
-    <state x="479" y="213" key="RollbackChangesDialog" timestamp="1673089598178">
+    <state x="340" y="385" width="600" height="344" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1676293712874">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="479" y="213" key="RollbackChangesDialog/0.0.1280.984@0.0.1280.984" timestamp="1673089598178" />
-    <state x="145" y="182" key="SettingsEditor" timestamp="1673194184156">
+    <state x="340" y="385" width="600" height="344" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.984@0.0.1280.984" timestamp="1676293712874" />
+    <state width="1281" height="365" key="GridCell.Tab.0.bottom" timestamp="1676294703700">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="145" y="182" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1673194184156" />
+    <state width="1281" height="365" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1676294703700" />
+    <state width="1281" height="365" key="GridCell.Tab.0.center" timestamp="1676294703700">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="365" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1676294703700" />
+    <state width="1281" height="365" key="GridCell.Tab.0.left" timestamp="1676294703700">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="365" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1676294703700" />
+    <state width="1281" height="365" key="GridCell.Tab.0.right" timestamp="1676294703700">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="365" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1676294703700" />
+    <state width="1281" height="365" key="GridCell.Tab.1.bottom" timestamp="1676294703700">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="365" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1676294703700" />
+    <state width="1281" height="365" key="GridCell.Tab.1.center" timestamp="1676294703700">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="365" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1676294703700" />
+    <state width="1281" height="365" key="GridCell.Tab.1.left" timestamp="1676294703700">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="365" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1676294703700" />
+    <state width="1281" height="365" key="GridCell.Tab.1.right" timestamp="1676294703700">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1281" height="365" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1676294703700" />
+    <state x="479" y="213" key="RollbackChangesDialog" timestamp="1676293689473">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="479" y="213" key="RollbackChangesDialog/0.0.1280.984@0.0.1280.984" timestamp="1676293689473" />
+    <state x="167" y="101" width="998" height="708" key="SettingsEditor" timestamp="1676293114461">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="167" y="101" width="998" height="708" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1676293114461" />
     <state x="303" y="211" width="672" height="685" key="search.everywhere.popup" timestamp="1673193959227">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="303" y="211" width="672" height="685" key="search.everywhere.popup/0.0.1280.984@0.0.1280.984" timestamp="1673193959227" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/charIndex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/APIs.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="53" column="6" lean-forward="true" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mainIndex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -290,9 +284,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/form.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/terminalIndex.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -300,55 +291,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/exercises/form1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkIndex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mainOne.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Yahoo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abstractIndex.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codility/binaryGap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#1279#1296#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="866">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -356,6 +302,119 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/task/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="5751" column="44" lean-forward="true" selection-start-line="5751" selection-start-column="44" selection-end-line="5751" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codility/binaryGap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+          <folding>
+            <element signature="e#7#1277#0#PHP" expanded="true" />
+            <element signature="e#1279#1296#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstractIndex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/One.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yahoo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/info.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkIndex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charIndex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainIndex.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainOne.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/Functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="e#7#113#0#PHP" expanded="true" />
+            <element signature="e#514#528#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

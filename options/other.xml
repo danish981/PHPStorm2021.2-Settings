@@ -179,27 +179,28 @@
     </trackers>
   </component>
   <component name="PropertiesComponent">
-    <property name="ColorChooser.RecentColors" value="89-98-111-255" />
+    <property name="ColorChooser.RecentColors" value="93-60-187-255,,,89-98-111-255" />
     <property name="FindSplitterProportion" value="0.33014354" />
-    <property name="InstalledPluginsSearchHistory" value="github dark&#10;tail&#10;tai&#10;ta&#10;t" />
+    <property name="InstalledPluginsSearchHistory" value="rider&#10;github dark&#10;tail&#10;tai&#10;ta" />
     <property name="KEYMAP" value="close&#10;scratch file&#10;php file&#10;font" />
     <property name="LayoutCode.codeCleanup" value="true" />
     <property name="LayoutCode.optimizeImports" value="true" />
     <property name="LayoutCode.processChangedText" value="false" />
     <property name="LayoutCode.rearrangeEntries" value="true" />
     <property name="Markdown Split EditorLayout" value="Editor and Preview" />
-    <property name="MarketplacePluginsSearchHistory" value="github dark&#10;github&#10;githubdark&#10;react&#10;reac" />
+    <property name="MarketplacePluginsSearchHistory" value="rider&#10;rider icons&#10;rier&#10;ri&#10;rie" />
     <property name="NextRunPlatformUpdateBuild" value="PS-212.5712.51/2021.2.4" />
     <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="RunOnceActivity.laravel-idea.show-eloquent-helper-code-action-info" value="true" />
     <property name="SettingsSearchHistory" value="`&#10;test data&#10;terminal&#10;terminal name&#10;built in preview" />
     <property name="TextEditorWithPreview.SplitterProportionKey" value="0.7564403" />
     <property name="appcds.runOnSecondStart" value="PS-212.4746.100-8bbcf3b50ca7155598ca3a401eb884fcacd1b488bb0db8a80e9142ae361a5ae8" />
     <property name="evlsprt3.212" value="11" />
     <property name="file.chooser.recent.files" value="C:/xampp/htdocs&#10;C:/xampp/htdocs/demo-laravel-project&#10;C:/Users/HomePC/Downloads/ide-eval-resetter-2.1.14-d2fedb86.zip" />
-    <property name="file.gist.reindex.count" value="724" />
+    <property name="file.gist.reindex.count" value="727" />
     <property name="fileTypeChangedCounter" value="8" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.builtin.web.server.reload.on.save" value="1" />
@@ -224,7 +225,7 @@
   </component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="MyPortfolio-history" project-path="D:/themes/MyPortfolio" last-access-time="1673642427119" />
+      <command-history-file filename="php-practice-history" project-path="C:/xampp/htdocs/php-practice" last-access-time="1676293288290" />
       <command-history-file filename="laravel-features-history" project-path="C:/xampp/htdocs/laravel-features" last-access-time="1676147369562" />
       <command-history-file filename="lv-app9-history2" project-path="C:/xampp/htdocs/lv-app9" last-access-time="1673730993378" />
       <command-history-file filename="pract-website-history" project-path="C:/xampp/htdocs/pract-website" last-access-time="1674243783131" />
@@ -232,7 +233,7 @@
       <command-history-file filename="portfolio-site-1-history" project-path="C:/xampp/htdocs/portfolio-site-1" last-access-time="1673733478744" />
       <command-history-file filename="laravel-features-history1" project-path="C:/xampp/htdocs/laravel-features" last-access-time="1676147369575" />
       <command-history-file filename="danish981-history" project-path="C:/xampp/htdocs/danish981" last-access-time="1673788967732" />
-      <command-history-file filename="mt-vcard-resume-template-history" project-path="C:/xampp/htdocs/STATICS-GITHUB/mt-vcard-resume-template" last-access-time="1676206020229" />
+      <command-history-file filename="mt-vcard-resume-template-history" project-path="C:/xampp/htdocs/STATICS-GITHUB/mt-vcard-resume-template" last-access-time="1676294953224" />
       <command-history-file filename="naruto-uzumaki-history" project-path="C:/xampp/htdocs/naruto-uzumaki" last-access-time="1673733291760" />
     </command-history-files>
   </component>

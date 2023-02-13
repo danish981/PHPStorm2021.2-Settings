@@ -2,10 +2,14 @@
   <component name="DimensionService">
     <location key="find.popup.0.0.1280.1024" x="421" y="107" />
     <size key="find.popup.0.0.1280.1024" width="600" height="588" />
-    <size key="GridCell.Tab.0.left.0.0.1280.1024" width="876" height="296" />
-    <size key="GridCell.Tab.0.center.0.0.1280.1024" width="876" height="296" />
-    <size key="GridCell.Tab.0.right.0.0.1280.1024" width="876" height="296" />
-    <size key="GridCell.Tab.0.bottom.0.0.1280.1024" width="876" height="296" />
+    <size key="GridCell.Tab.0.left.0.0.1280.1024" width="1281" height="365" />
+    <size key="GridCell.Tab.0.center.0.0.1280.1024" width="1281" height="365" />
+    <size key="GridCell.Tab.0.right.0.0.1280.1024" width="1281" height="365" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.1024" width="1281" height="365" />
+    <size key="GridCell.Tab.1.left.0.0.1280.1024" width="1281" height="365" />
+    <size key="GridCell.Tab.1.center.0.0.1280.1024" width="1281" height="365" />
+    <size key="GridCell.Tab.1.right.0.0.1280.1024" width="1281" height="365" />
+    <size key="GridCell.Tab.1.bottom.0.0.1280.1024" width="1281" height="365" />
   </component>
   <component name="WindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extendedState="6" />
@@ -31,9 +35,9 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state width="1019" height="148" key="ShowUsagesActions.dimensionServiceKey/0.0.1280.984" timestamp="1675539243994" />
-    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN" timestamp="1676147386507">
+    <state x="622" y="405" width="800" height="600" key="WELCOME_SCREEN" timestamp="1676298577061">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="640" y="428" width="800" height="600" key="WELCOME_SCREEN/0.0.1280.984" timestamp="1676147386507" />
+    <state x="622" y="405" width="800" height="600" key="WELCOME_SCREEN/0.0.1280.984" timestamp="1676298577061" />
   </component>
 </application>
